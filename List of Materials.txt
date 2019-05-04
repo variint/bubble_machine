@@ -1,0 +1,38 @@
+Arduino:
+    Arduino Micro: 
+        https://store.arduino.cc/usa/arduino-micro
+        
+        Price: ~ $19.80 / €18.00
+        Specs:
+            Operating Voltage	        5V
+            Input Voltage (recommended)	7-12V
+            Input Voltage (limit)	    6-20V
+            Digital I/O Pins	        20
+            PWM Channels	            7
+            Analog Input Channels	    12
+            DC Current per I/O Pin	    20 mA
+            DC Current for 3.3V Pin	    50 mA
+            Clock Speed	16 MHz
+            Supports I2C and SPI communication
+
+Digital Potentiometer:
+    MCP4131:
+        https://www.digikey.nl/product-detail/nl/microchip-technology/MCP4131-502E-P/MCP4131-502E-P-ND/1874334
+
+        Price: ~ $0.69 / € 0,61
+        Specs:
+            Resistance:                 5kΩ
+            Network Resolution:         129 steps
+            Interface:                  SPI
+            Range:                      1.8V - 5.5V
+
+Motors:
+    711 Adafruit Industries LLC:
+        https://www.digikey.com/product-detail/en/adafruit-industries-llc/711/1528-1150-ND/5353610
+
+        Price / unit: ~ $1.95 / €1.73
+        Specs:
+            Rated Voltage:              6.0VDC
+            No-load Current:            70 mA max
+            Loaded Current:             250 mA max
+            Stall Current:              500mA max
