@@ -2,7 +2,9 @@ Arduino:
     Arduino Micro: 
         https://store.arduino.cc/usa/arduino-micro
         
-        Price: ~ $19.80 / €18.00
+        Price / unit: ~ $19.80 / €18.00
+        Quantity: 1
+        
         Specs:
             Operating Voltage	        5V
             Input Voltage (recommended)	7-12V
@@ -15,24 +17,43 @@ Arduino:
             Clock Speed	16 MHz
             Supports I2C and SPI communication
 
-Digital Potentiometer:
-    MCP4131:
-        https://www.digikey.nl/product-detail/nl/microchip-technology/MCP4131-502E-P/MCP4131-502E-P-ND/1874334
 
-        Price: ~ $0.69 / € 0,61
-        Specs:
-            Resistance:                 5kΩ
-            Network Resolution:         129 steps
-            Interface:                  SPI
-            Range:                      1.8V - 5.5V
+Transistors:
+    PN2222:
+        https://www.digikey.ca/product-detail/en/on-semiconductor/PN2222TA/PN2222TACT-ND/4743971
+
+        Price / unit: ~ $0.36 / € 0,22
+        Quantity: 2
+
+
+Diodes:
+    1N4001:
+        https://www.digikey.at/product-detail/de/comchip-technology/1N4001-G/641-1310-1-ND/1979675
+
+        Price / unit: ~ $0.11 / € 0,10
+        Quantity: 3
+        
 
 Motors:
     711 Adafruit Industries LLC:
         https://www.digikey.com/product-detail/en/adafruit-industries-llc/711/1528-1150-ND/5353610
 
         Price / unit: ~ $1.95 / €1.73
+        Quantity: 2
+
         Specs:
             Rated Voltage:              6.0VDC
             No-load Current:            70 mA max
             Loaded Current:             250 mA max
             Stall Current:              500mA max
+
+---------------------------------------------------------------------------------------------------
+
+Total Price:
+        
+    Arduino:    ~ $19.80 / €18.00   x 1
+    PN2222:     ~ $0.36  / €0,22    x 2
+    1N4001:     ~ $0.11  / €0,10    x 3
+    Motor:      ~ $1.95  / €1.73    x 2
+    -----------------------------------
+    Total:      ~ $24.75 / €22.20
