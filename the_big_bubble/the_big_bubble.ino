@@ -32,7 +32,8 @@ void loop() {
       make_bubbles (); // CONDITION, EVENTUALLY WITH DELAY
   
       set_servos();
-      servo_pwm_old[LEFT] = servo_pwm[LEFT];
-      servo_pwm_old[RIGHT] = servo_pwm[RIGHT];
- 
+      servo_pwm_old[BUBBLE] = servo_pwm[BUBBLE];
+      servo_pwm_old[DIP] = servo_pwm[DIP];
+      servo_pwm_old[FAN] = servo_pwm[FAN];
+  
 }
