@@ -8,7 +8,7 @@
 // SERVOS
 const int pin_bubble= 5;
 const int pin_dip = 5;
-const int _fan = 6;
+const int pin_fan = 6;
 
 Servo servo_bubble;
 Servo servo_dip;
