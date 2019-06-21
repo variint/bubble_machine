@@ -6,7 +6,7 @@
 #define FAN 2
 
 // SERVOS
-const int pin_bubble= 5;
+const int pin_bubble = 5;
 const int pin_dip = 5;
 const int pin_fan = 6;
 
